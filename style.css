@@ -3,11 +3,8 @@
         text-align: center;
         }
     
-    main{
-        background-color:black;  
-        }
    body{
-background-image: url(1000746938.png);
+background-image: url('1000746938.png');
 background-size: cover;
 background-position: center;
 background-attachment: fixed;
