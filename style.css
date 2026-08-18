@@ -7,14 +7,9 @@
         background-color:black;  
         }
     .img{
-        border-radius: 2px;
+    padding: 20px;
+    border-radius: 12px;
+    margin: 20px auto;
+    max-width: 800px;
     }
-  body {
-   
-    background-image: url('sua-imagem.png');   
-    background-repeat: no-repeat; 
-    background-position: center center; 
-    background-attachment: fixed; 
-    background-size: cover; 
-    background-color: #0f172a; 
-}
+ 
