@@ -1,18 +1,11 @@
-    header{
+header{
         background-color:black;
         text-align: center;
-        }
-    
-   body{
-background-image: url('1000746938.png');
-background-size: cover;
-background-position: center;
-background-attachment: fixed;
-   }
-main {
-color: #ffff;
 }
-.img{
-    display: flex;
-    justify-content: center;
+    
+body{
+    background-image: url('1000746938.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
